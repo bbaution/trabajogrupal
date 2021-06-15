@@ -47,6 +47,8 @@ list-style: none;
     color: white;
 }
 
+/* footer */
+
 footer{
     background: rgba(0, 0, 0, 0.178);
     backdrop-filter: blur(2px);
@@ -54,4 +56,8 @@ footer{
 
 footer div i{
     font-size: 3rem;
+}
+
+.nosotros-footer{
+    text-shadow: 5px 5px 6px rgba(0,0,0,0.74);
 }

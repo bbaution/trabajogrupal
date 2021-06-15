@@ -1,0 +1,10 @@
+.formulario-registro{
+
+    box-shadow: 28px 29px 94px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 28px 29px 94px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 28px 29px 94px 0px rgba(0,0,0,0.75);
+border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+
+}
